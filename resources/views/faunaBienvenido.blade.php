@@ -1,34 +1,37 @@
 @extends('fauna')
 
 @section('presentacion')
-	<h1>Salvemos la fauna</h1>
+	<h1 ><kbd>Salvemos la fauna</kbd></h1>
 	<p class="lead">Funtos podemos hacer del mundo un mejor lugar para los animales.</p>
 @endsection
 
 @section('contenido')
 	<section >
+    <div class="jumbotron jumbotron-fluid">
       <div class="container" >
         <div class="row" >
         	
           <div class="col-lg-11 col-sm-8 mx-auto" >
             <h2 class="text-center">Acciones para salvar a animales en peligro de extinción</h2>
-            <p class="lead text-justify">La actividad del hombre ha hecho que el número de animales en peligro de extinción haya aumentado. La contaminación, el urbanismo desmedido o la caza han puesto en riesgo a animales y plantas que forman parte del equilibrio natural impulsando el riesgo que sufren los ecosistemas del planeta. No hay duda de que las especies en peligro de extinción deben ser protegidas para que su presencia no se pierda de cara a las futuras generaciones. Los gobiernos de los países tienen mucho que decir en los procesos para salvar a un animal en peligro de extinción, pero es algo que supone una responsabilidad de cada persona con acciones como las siguientes:</p>
+            
             <ul class="lead">
-              <li>Denunciar actividades como la caza, pesca y/o venta de especies protegidas.</li>
-              <li>Iniciar una petición para salvar a un animal en peligro de extinción o apoyarlas en las redes sociales y en tu círculo de amigos.</li>
-              <li>Respetar los periodos de veda y los espacios donde habitan los animales.</li>
-              <li>Evitar y denunciar la tenencia ilegal de animales en peligro de extinción</li>
-              <li>No contaminar aguas de ríos, mares y otros espacios naturales arrojando basura y no consumir productos o servicios de empresas que no tengan una actividad ecológica. </li>
-              <li>No encender fuego o no apagarlo correctamente cuando salimos al campo, no lanzar colillas de cigarros desde la ventanilla del coche o realizar cualquier acción que pueda producir un incendio.</li>
-              <li>Realizar aportaciones a organizaciones que luchen por salvar a los animales en peligro de extinción.</li>
+              <li >Denunciar actividades como la caza, pesca y/o venta de especies protegidas.</li>
+              <li >Iniciar una petición para salvar a un animal en peligro de extinción o apoyarlas en las redes sociales y en tu círculo de amigos.</li>
+              <li >Respetar los periodos de veda y los espacios donde habitan los animales.</li>
+              <li >Evitar y denunciar la tenencia ilegal de animales en peligro de extinción</li>
+              <li >No contaminar aguas de ríos, mares y otros espacios naturales arrojando basura y no consumir productos o servicios de empresas que no tengan una actividad ecológica. </li>
+              <li >No encender fuego o no apagarlo correctamente cuando salimos al campo, no lanzar colillas de cigarros desde la ventanilla del coche o realizar cualquier acción que pueda producir un incendio.</li>
+              <li >Realizar aportaciones a organizaciones que luchen por salvar a los animales en peligro de extinción.</li>
             </ul>
      
           </div>
           
 
       </div>
+    </div>
+  </div>
      
-    </section>
+  </section>
     <div  class="container bg-light" >
         <div id="demo" class="carousel slide" data-ride="carousel">
 
@@ -194,20 +197,20 @@
           </div>
         </div>
       </div>
-     
     </section>
+
      <div  class="container" aling="center">
 
     	<figure aling="center">
-    		<picture>	 	 
-			 <source srcset="http://localhost/probandoLaravel/public/img/infoLarge.jpg" media="(min-width:1024px)" />	 	 
-			 <source srcset="http://localhost/probandoLaravel/public/img/infoMedium.jpg" media="(min-width:640px)" />	 	 
-			 <source srcset="http://localhost/probandoLaravel/public/img/infoSmall.jpg" media="(min-width:480px)" />	 	 
-				<img src="http://localhost/probandoLaravel/public/img/infoDefault.jpg" alt="info sobre la extinsion animal">
-			 </picture>
-  		
-  			<figcaption><em>En la infografia se puede apreciar como la mano del hombre ha ido afectando el ambiente de los animales.</em></figcaption>
-		</figure>   
+      	<picture>	 	 
+  			<source srcset="http://localhost/probandoLaravel/public/img/infoLarge.jpg" media="(min-width:1024px)" />	 	 
+  			<source srcset="http://localhost/probandoLaravel/public/img/infoMedium.jpg" media="(min-width:640px)" />	 	 
+  			<source srcset="http://localhost/probandoLaravel/public/img/infoSmall.jpg" media="(min-width:480px)" />	 	 
+  			<img src="http://localhost/probandoLaravel/public/img/infoDefault.jpg" alt="info sobre la extinsion animal">
+  			 </picture>
+    		
+    			<figcaption><em>En la infografia se puede apreciar como la mano del hombre ha ido afectando el ambiente de los animales.</em></figcaption>
+		  </figure>   
 
     </div>
     

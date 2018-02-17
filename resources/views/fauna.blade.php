@@ -41,13 +41,16 @@
             <li class="nav-item">
               <a class="nav-link js-scroll-trigger" href="http://localhost/probandoLaravel/public/Problematicas/">Problematicas</a>
             </li>
+             <li class="nav-item">
+              <a class="nav-link js-scroll-trigger" href="http://localhost/probandoLaravel/public/Voluntarios/">Voluntarios</a>
+            </li>
           </ul>
         </div>
       </div>
     </nav>
 
     <header class="text-white" style="background-image: url('http://localhost/probandoLaravel/public/img/fondo.jpg');">
-      <div class="container text-center">
+      <div class="container text-center ">
         @yield('presentacion')
       </div>
     </header>

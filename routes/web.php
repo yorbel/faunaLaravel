@@ -17,3 +17,4 @@ Route::get('/Contacto', 'FaunaInfoController@contacto');
 Route::get('/Problematicas', 'ProblematicasController@problematicas');
 Route::post('/Problematicas/soluciones', 'ProblematicasController@guardarSolucion');
 Route::get('/Problematicas/Ideas', 'ProblematicasController@mostrarSoluciones');
+Route::get('/Voluntarios', 'VoluntariosController@voluntarios');
