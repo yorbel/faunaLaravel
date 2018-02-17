@@ -11,7 +11,7 @@
         <div class="row" >
         	
           <div class="col-lg-11 col-sm-8 mx-auto" >
-            <h2 >Acciones para salvar a animales en peligro de extinción</h2>
+            <h2 class="text-center">Acciones para salvar a animales en peligro de extinción</h2>
             <p class="lead text-justify">La actividad del hombre ha hecho que el número de animales en peligro de extinción haya aumentado. La contaminación, el urbanismo desmedido o la caza han puesto en riesgo a animales y plantas que forman parte del equilibrio natural impulsando el riesgo que sufren los ecosistemas del planeta. No hay duda de que las especies en peligro de extinción deben ser protegidas para que su presencia no se pierda de cara a las futuras generaciones. Los gobiernos de los países tienen mucho que decir en los procesos para salvar a un animal en peligro de extinción, pero es algo que supone una responsabilidad de cada persona con acciones como las siguientes:</p>
             <ul class="lead">
               <li>Denunciar actividades como la caza, pesca y/o venta de especies protegidas.</li>
@@ -188,7 +188,7 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-11 mx-auto">
-            <h2>Que podemos hacer para aportar un grano de arena</h2>
+            <h2 class="text-center">Que podemos hacer para aportar un grano de arena</h2>
             <p class="lead text-justify">Hay numerosas organizaciones que se están preocupando de proteger a las especies en peligro y en los últimos tiempos se han creado programas específicos para evitar ataques y cuidar su reproducción, auténtica base de su futuro. Es muy importante la puesta en marcha de áreas específicas que mantengan las óptimas condiciones de cuidado y protección de estos seres vivos.</p>
             
           </div>
